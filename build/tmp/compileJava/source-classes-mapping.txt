@@ -1,0 +1,6 @@
+com/jojoldu/book/springboot/Application.java
+ com.jojoldu.book.springboot.Application
+com/jojoldu/book/springboot/domain/post/PostsRepository.java
+ com.jojoldu.book.springboot.domain.post.PostsRepository
+com/jojoldu/book/springboot/domain/post/Posts.java
+ com.jojoldu.book.springboot.domain.post.Posts
